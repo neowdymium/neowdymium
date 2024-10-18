@@ -4,12 +4,12 @@
 
 <br>
 <br>
-<p aligh="right"><img src="https://github.com/neowdimium/neowdymium/blob/main/Images/image%207.png"></p>
+<p aligh="right"><img src="https://github.com/neowdymium/neowdymium/blob/main/Images/image%207.png"></p>
 <p><br>
 <emphasis>T E C H &nbsp; A N D &nbsp;  T H E&nbsp;  C O D I N G.
 <br> G E E K  &nbsp; O F &nbsp; B I O &nbsp; R O B O T I C S.
 <br> G R A P H I C &nbsp;  A R T I S T.</emphasis>
-<img src="https://github.com/neowdimium/neowdymium/blob/main/Images/image_2022-09-17_164824017.png">
+<img src="https://github.com/neowdymium/neowdymium/blob/main/Images/image_2022-09-17_164824017.png">
 </p>
 <p>
 <br> <br>
@@ -24,12 +24,12 @@
 
 - How to contact me  **neoodymiumm@yahoo.com**
 
-- Know about my experiences <a href="https://github.com/neowdymium/Resume/blob/main/090519452530.pdf" target="blank">Resume</a></p>
+- Know about my experiences <a href="*" target="blank">Resume</a></p>
 </div>
 <br><br>
 
 <p><h1 align="left"> <strong>T O O L S</strong></h1>
-<img width="100%" src="https://github.com/neowdimium/neowdymium/blob/main/Images/tools.png"></p></div>
+<img width="100%" src="https://github.com/neowdymium/neowdymium/blob/main/Images/tools.png"></p></div>
 <br> <br><br><br>
 <p ><h1 align="right"><strong>M Y &nbsp; C O N T A C T</h1></strong></p>
 <p align="left" >
