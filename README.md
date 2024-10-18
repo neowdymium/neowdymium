@@ -33,7 +33,7 @@
 <p><h1 align="left"> <strong>T O O L S</strong></h1>
 <img width="100%" src="https://github.com/neowdimium/neowdymium/blob/main/Images/tools.png"></p></div>
 <br> <br><br><br>
-<p ><h1 align="right"><strong>N O W &nbsp; P L A Y I N G</h1></strong></p>
+<p ><h1 align="right"><strong>M Y &nbsp; C O N T A C T</h1></strong></p>
 <p align="left" >
 <div style="margin-left: 100px;">
 <img src=https://github.com/neowdimium/neowdymium/blob/main/Images/image%2017-1.png align="right">
@@ -44,12 +44,12 @@
 <p align="center">
 
 <div align="center"  class="icons-social" style="margin-left: 10px;">
- <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/sayan-roy-b138b9199/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/D3FaltXD">
+ <a style="margin-left: 10px;"  target="_blank" href="https://www.youtube.com/@neowdymium">
+			<img src="https://img.icons8.com/?size=100&id=80495&format=png&color=000000"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/neowdymium">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/d3faltxd/">
+        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/real_nd_niad/">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/G2Ahri">
+		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/ndniad">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
       </div>
