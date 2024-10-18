@@ -52,6 +52,4 @@
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/G2Ahri">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		<a style="margin-left: 5px;" target="_blank" href="*">
-					<img src="https://github.com/neowdimium/neowdymium/blob/main/Images/resume.png" ></a>
       </div>
