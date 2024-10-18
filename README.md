@@ -38,11 +38,6 @@
 <div style="margin-left: 100px;">
 <img src=https://github.com/neowdimium/neowdymium/blob/main/Images/image%2017-1.png align="right">
 </div>
-<br> <br><br><br>
-<h1 align="center"><strong> Connect with me </h1></strong>
-
-<p align="center">
-
 <div align="center"  class="icons-social" style="margin-left: 10px;">
  <a style="margin-left: 10px;"  target="_blank" href="https://www.youtube.com/@neowdymium">
 			<img src="https://img.icons8.com/doodle/40/000000/youtube--v2.png"></a>
