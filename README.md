@@ -45,7 +45,7 @@
 
 <div align="center"  class="icons-social" style="margin-left: 10px;">
  <a style="margin-left: 10px;"  target="_blank" href="https://www.youtube.com/@neowdymium">
-			<img src="https://img.icons8.com/?size=100&id=80495&format=png&color=000000"></a>
+			<img src="https://img.icons8.com/doodle/40/000000/youtube--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/neowdymium">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/real_nd_niad/">
