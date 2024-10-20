@@ -1,7 +1,8 @@
 
 <h1><strong>H E L L O</strong></h1>
 <h3><strong>もしもし</strong></h3>
-
+<br>
+<a href="https://neowdymium.github.io/neowdymium/" target="blank">Wesbsite (╯°□°）╯︵ ┻━┻ </a>
 <br>
 <br>
 <p aligh="right"><img src="https://github.com/neowdymium/neowdymium/blob/main/Images/image%207.png"></p>
